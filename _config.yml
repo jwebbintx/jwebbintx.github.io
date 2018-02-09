@@ -5,11 +5,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "jwebbintx.github.io"
+title                    : "James Webb"
 title_separator          : "-"
 name                     : "James Webb"
 description              : "A personal website."
@@ -85,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "James Webb"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/static/jwebb_profile.png"
   bio              : "DevOps Engineer at Unity Technologies, Paramedic"
   location         : "Austin, TX"
   email            :
